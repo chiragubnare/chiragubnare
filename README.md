@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chiragubnare
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I have completed Specialization in Python from Coursera
-- 💞️ I’m looking to collaborate on some project on application of Python in machine learning
+- 🌱 Currently, I am doing Internship in 'Image Processing through Neural Network' at IIT Bhilai
+- 💞️ I’m looking to collaborate on some project on application of Python in Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/chiragubnare/
 
 <!---
