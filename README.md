@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiragubnare
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I have completed Specialization in Python from Coursera
-- 🌱 Currently, I am doing Internship in 'Adversarial Image Processing through Neural Network' at IIT Bhilai
+- 🌱 I have contributed to some Reseacrh papers during summer Internship at IIT Bhilai namely ReplaceDGA and 5G NWDAF.
+- 🌱 I have completed Specialization in Python from Coursera and IBM Data Science Certification.
 - 💞️ I’m looking to collaborate on some project on application of Python in Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/chiragubnare/
 
