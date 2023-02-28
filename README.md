@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @chiragubnare
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning.
+      Currently pursuing Internship in Artificial Intelligence at CDAC, Mohali.
 - 🌱 I have contributed to some Reseacrh papers during summer Internship at IIT Bhilai namely ReplaceDGA and 5G NWDAF.
 - 🌱 I have completed Specialization in Python from Coursera and IBM Data Science Certification.
 - 💞️ I’m looking to collaborate on some project on application of Python in Machine Learning
