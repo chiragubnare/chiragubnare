@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiragubnare
 - 👀 I’m interested in Data Science, Machine Learning & Computer Vision.
       I am currently a Developer at TCS Mumbai delivering AI-driven solutions for ICICI Bank.
-- 🌱 I have completed an internship at CDAC Mohali, contributing to some AI-driven solutions named eBagaan, Voice based on COVID-19 detection through cough, Image recognition Cataract detection projects, etc
+- 🌱 I have completed an internship at CDAC Mohali, contributing to some Government of India-funded solutions named eBagaan, Voice based on COVID-19 detection through cough, Image recognition Cataract detection projects, etc
 - 🌱 I contributed to some research papers during my Research Internship at IIT Bhilai, ReplaceDGA and 5G NWDAF.
 - 🌱 I have completed a Specialization in Python from Coursera and IBM Data Science Certification.
 - 💞️ I’m looking to collaborate on some projects on the application of Python in Machine Learning
